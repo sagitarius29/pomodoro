@@ -7,7 +7,7 @@
 
 <script>
 export default {
-name: "PomodoroList"
+    name: "PomodoroList"
 }
 </script>
 
